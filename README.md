@@ -9,3 +9,4 @@ You can open the notebook directly in Google Colab using the following link: [![
 ## Image Used
 The image used in this notebook is the Chessboard image: [Chess_Image](./chess.jpg)
 
+<img src="./chess.jpg" alt="Raptor2" width="700">
